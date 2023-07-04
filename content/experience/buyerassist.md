@@ -10,15 +10,7 @@ weight: 302
 
 ### Description
 
-<<<<<<< HEAD
 I grabbed an opportunity to pursue a fully-funded research internship at the **[Kerala Highway Research Institute (KHRI)](https://khri.org/aboutus)**. Here, I conducted my **[thesis work](https://drive.google.com/file/d/1tQMhVJwhGpne7B8lqEWgLNWSX_nOXC7r/view?usp=sharing)** on determining the effect of adding additives on the properties of the RAP 
-=======
-- Developed an event-driven serverless integration framework using AWS Lambda and EventBridge, facilitating seamless synchronization of customer data between Salesforce and BuyerAssist.
-- Designed and implemented a configuration-driven framework to enhance the pattern-matching capability of AWS EventBridge, preventing over 1000 false invocations of AWS Lambda functions every day.
-- Implemented a system to track asynchronous data transfer jobs through AWS AppFlow, which reduced the issue tracking time to under 5 mins.
-- Developed a Salesforce app using SFDX to provide clients a customized experience within their Salesforce dashboard.
-- Developed a Slack bot that sent interactive daily notifications to customers, enabling them to take direct actions from Slack. This streamlined operations and boosted sales by over 50%.
->>>>>>> 977ecdc34e75ffdff0de9e2f818e3c13495b8c40
 
 
 **Guides** : Abhijith Ravikumar (Assitant Director at KHRI) & Prof. Sonali Snehajan (Assitant Professor, GECBH, Tvm)

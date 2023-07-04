@@ -25,7 +25,7 @@ made to substantiate completeness and sufficiency of geometric form of the platf
 The Geometric configuration of TLP for 80000KN volume displacement has been in
 conformity with the different aspects of existing TLPs covering the comprehensive and
 perspective design procedure
-![Image]("static\projects\obsidian-publish-github-action\img3.jpg")
+
 The frame work for supporting the deck slab consists of stiffeners, tubular members for beam
 elements, primary girders and secondary girders. The depth of girders in both primary and
 secondary was designed as 5m.The maximum span for secondary girders is 37m and that for
@@ -33,9 +33,3 @@ primary girders is 31m.The columns has been designed for combined effect of bend
 compression and hydrostatic pressure. Then overall sufficiency of members under hydrodynamic loading has been checked after considering single degree of freedom motion
 under heave and surge.
 
-## Top View
-![Image]("../../static/projects/obsidian-publish-github-action/img3.jpg")
-
-## Side View
-
-![Image]("/projects/obsidian-publish-github-action/img2.jpg")
